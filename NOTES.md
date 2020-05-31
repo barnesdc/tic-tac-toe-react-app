@@ -19,4 +19,10 @@
     1. mutate the data by directly chaning the data's values
     2. replace the data with a new copy
   - immutability makes complex features much easier to implement like game history or future history
+  - helps you build "pure components" in React. Helps determine if changes have been made which help determine when a component requires re-rendering
+  
+- Function Components
+
+- AWS
+  - added AWS and GraphQL integration for learning sake, pretty easy process.
   
