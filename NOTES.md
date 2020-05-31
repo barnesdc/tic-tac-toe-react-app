@@ -22,6 +22,8 @@
   - helps you build "pure components" in React. Helps determine if changes have been made which help determine when a component requires re-rendering
   
 - Function Components
+  - easier way to write components that only conatina a render method and don't have their own state
+  - takes props as input and returns what should be rendered
 
 - AWS
   - added AWS and GraphQL integration for learning sake, pretty easy process.
